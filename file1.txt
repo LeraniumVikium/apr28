@@ -2,4 +2,3 @@ This is my test file for git/DevOps
 
 Update: new update from Local
 
-Test update for conflict
